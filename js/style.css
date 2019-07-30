@@ -1,0 +1,40 @@
+html {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0;
+}
+
+#n1{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #000;
+    float: left;
+    margin-right: 10px;
+    font-size: 100px;
+    text-align: center;
+    line-height: 200px;
+    background-color: #eee;                
+}
+
+#n2{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #000;
+    float: left;
+    margin-right: 10px;
+    font-size: 100px;
+    text-align: center;
+    line-height: 200px;
+}
+
+button {
+    width: 410px;
+    height: 40px;
+    margin-top: 10px;
+    font-size: 20px;                    
+}
